@@ -1,2 +1,0 @@
-# E-advocacy
-project
